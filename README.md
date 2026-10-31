@@ -96,11 +96,13 @@ Three repositories built to prove advanced SQL end-to-end — each with layered 
 
 <div align="center">
 
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinD18&show_icons=true&theme=dark&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinD18&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinD18&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JatinD18&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JatinD18&theme=dark&hide_border=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=JatinD18&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com/?user=JatinD18&theme=dark&hide_border=true)
 
 </div>
 
