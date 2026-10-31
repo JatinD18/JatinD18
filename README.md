@@ -121,6 +121,8 @@ I'm open to **Data Analyst / Business Intelligence / Analytics Engineer** roles 
 
 📧 **jatindolas18@gmail.com** · 🔗 [linkedin.com/in/jatin-dolas](https://linkedin.com/in/jatin-dolas) · 📍 Nagpur, Maharashtra, India
 
+---
+
 <div align="center">
 
 *From site stores & stock registers to SQL pipelines & executive dashboards — thanks for stopping by!* ⚡📊
