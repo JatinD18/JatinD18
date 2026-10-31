@@ -10,25 +10,40 @@
 [![Email](https://img.shields.io/badge/Email-jatindolas18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatindolas18@gmail.com)
 [![Location](https://img.shields.io/badge/Nagpur,%20India-Open%20to%20Opportunities-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](mailto:jatindolas18@gmail.com)
 
-**📊 9 portfolio projects · 🚀 3 deployed Streamlit apps · 🗄️ 100+ production-style SQL queries · 🧮 1M+ rows cleaned & modelled**
+**📊 10 portfolio projects · 🚀 3 live Streamlit apps · 🗄️ 4/8 SQL case studies end-to-end · 🧮 1M+ rows cleaned & modelled · 💼 2 analytics internships**
 
 </div>
+
+> **📌 Recruiter, start here (60 seconds):**
+> ① Advanced SQL → [8-Week SQL Challenge master README](https://github.com/JatinD18/8-Week-SQL-Challenge)
+> ② ML + deployment → [Inventory Optimization live app](https://inventory-optimization-dashboard.streamlit.app/)
+> ③ BI storytelling → [Netflix SQL + Power BI dashboard](https://github.com/JatinD18/Netflix-SQL-Analysis)
 
 ---
 
 ## 👋 About Me
 
-I'm a data analyst with an engineer's instinct and an operator's memory. Before I ever wrote a line of SQL, I spent years on construction sites as a **Site Engineer & Inventory Manager — tracking 300+ electrical SKUs across 8 simultaneous projects**. I've personally felt the cost of a stockout and the waste of overstocking… which is exactly why my analytics projects obsess over **lead times, safety stock, churn, margins and segment value** instead of toy metrics.
+I'm a data analyst with an engineer's instinct and an operator's memory. Before I ever wrote a line of SQL, I spent years on construction sites as a **Site Engineer & Inventory Manager — tracking 300+ electrical SKUs across 8 simultaneous projects**. I've personally felt the cost of a stockout and the waste of overstocking… which is exactly why my analytics work obsesses over **lead times, safety stock, churn, margins and segment value** instead of toy metrics.
 
-Today I build **end-to-end data pipelines**: extract with SQL & Python → clean & model → visualise in Power BI / Streamlit → hand stakeholders a decision, not just a chart. Two analytics internships shipped production dashboards used by cross-functional teams, and I'm currently pursuing an **MBA in Finance & Operations** to close the loop between data and business strategy.
+My workflow is end-to-end: **extract with SQL & Python → clean & model → visualise in Power BI / Streamlit → hand stakeholders a decision, not just a chart.** Two analytics internships shipped production dashboards used by cross-functional teams, and a recent deep-dive sprint added a fully documented **SQL portfolio** — from regex-based cleaning pipelines to running-balance ladders and RFM segmentation. I'm now pursuing an **MBA in Finance & Operations** to close the loop between data and business strategy.
 
 ```text
 EXTRACT  →  CLEAN  →  MODEL  →  VISUALISE  →  DECIDE
  SQL        Pandas    ML /      Power BI      Business
  CSVs       REGEXP    Stats     Streamlit     recommendations
- DB loads   CTEs      RFM/CLV   DAX           reserved cash,
-            & windows                   reorder points, segments
+ DB loads   CTEs      RFM/CLV   DAX           reorder points,
+            & windows                   reserve cash, segments
 ```
+
+---
+
+## 🔥 Latest Sprint: SQL Depth
+
+Three repositories built to prove advanced SQL end-to-end — each with layered pipelines, commented solutions and business-insight READMEs:
+
+- 🎬 **[Netflix Content Strategy Analysis](https://github.com/JatinD18/Netflix-SQL-Analysis)** — 5,850+ titles & 77,800+ credits cleaned in MySQL 8.0 (array-string parsing, type casting), 10+ business queries, and a Power BI dashboard on content strategy, genre quality and runtime sweet spots.
+- 🏦 **[Bank Segmentation & RFM Analysis](https://github.com/JatinD18/Bank-Segmentation-Analysis)** — simulated 10K customers / 14K accounts / 100K transactions using recursive CTEs and a batched stored procedure, then 12 business queries + NTILE-based RFM segments and dormant-account detection.
+- 🗄️ **[8-Week SQL Challenge (4 Case Studies)](https://github.com/JatinD18/8-Week-SQL-Challenge)** — Danny's Diner, Pizza Runner, Foodie-Fi & Data Bank: 70+ queries spanning cleaning pipelines, string splitting, subscription funnels with `LAG()`, temporal joins and a transaction → daily → monthly running-balance ladder.
 
 ---
 
@@ -36,15 +51,15 @@ EXTRACT  →  CLEAN  →  MODEL  →  VISUALISE  →  DECIDE
 
 | Project | What It Solves | Stack | Links |
 |---|---|---|---|
-| 📦 **Inventory Optimization Dashboard** | ML demand forecast → live safety-stock & reorder-point what-if sliders per store/item | Python · scikit-learn · Streamlit | [Code](https://github.com/JatinD18/Inventory-Optimization-Dashboard) · [Live](https://inventory-optimization-dashboard.streamlit.app/) |
-| 🛒 **Customer Segmentation & CLV** | RFM + K-Means segmentation → 6-month CLV prediction with segment-level marketing strategy | Python · scikit-learn · Lifetimes · Streamlit | [Code](https://github.com/JatinD18/Customer-Segmentation-CLV) · [Live](https://customer-segmentation-clv-ml.streamlit.app/) |
-| 💰 **Financial Performance Dashboard** | Star-schema pipeline merging 7 relational tables → $45M+ revenue, margin & YoY analysis | Python · Pandas · Plotly · Streamlit | [Code](https://github.com/JatinD18/Financial-Dashboard-Python) · [Live](https://financial-dashboard-py-str.streamlit.app/) |
-| 🎬 **Netflix Content Strategy Analysis** | 5,850+ titles & 77,800+ credits cleaned & analysed → content-strategy & runtime insights + BI dashboard | MySQL 8.0 · Python · Power BI | [Code](https://github.com/JatinD18/Netflix-SQL-Analysis) |
-| 🏦 **Bank Segmentation & RFM Analysis** | Simulated 10K customers / 100K transactions → 12 business queries + NTILE-based RFM segments & dormant-account detection | MySQL 8.0 · Window Functions · Stored Procedures | [Code](https://github.com/JatinD18/Bank-Segmentation-Analysis) |
-| 🗄️ **8-Week SQL Challenge (4 Case Studies)** | Danny's Diner · Pizza Runner · Foodie-Fi · Data Bank — cleaning pipelines, funnels, temporal joins, running-balance ladders | MySQL 8.0 · CTEs · Window Frames | [Code](https://github.com/JatinD18/8-Week-SQL-Challenge) |
+| 🗄️ **8-Week SQL Challenge** | 4 industry case studies solved end-to-end with cleaning layers & insight READMEs | MySQL 8.0 · CTEs · Window Frames | [Code](https://github.com/JatinD18/8-Week-SQL-Challenge) |
+| 🎬 **Netflix Content Strategy** | Messy catalog → content-strategy, genre & runtime insights + BI dashboard | MySQL · Python · Power BI | [Code](https://github.com/JatinD18/Netflix-SQL-Analysis) |
+| 🏦 **Bank Segmentation & RFM** | Simulated banking data → 12 business queries + RFM segments & churn flags | MySQL · Window Functions · Stored Procedures | [Code](https://github.com/JatinD18/Bank-Segmentation-Analysis) |
+| 📦 **Inventory Optimization Dashboard** | ML demand forecast → live safety-stock & reorder-point what-if sliders | Python · scikit-learn · Streamlit | [Code](https://github.com/JatinD18/Inventory-Optimization-Dashboard) · [Live](https://inventory-optimization-dashboard.streamlit.app/) |
+| 🛒 **Customer Segmentation & CLV** | RFM + K-Means segmentation → 6-month CLV with segment marketing plays | Python · scikit-learn · Lifetimes · Streamlit | [Code](https://github.com/JatinD18/Customer-Segmentation-CLV) · [Live](https://customer-segmentation-clv-ml.streamlit.app/) |
+| 💰 **Financial Performance Dashboard** | Star-schema pipeline merging 7 tables → $45M+ revenue, margin & YoY analysis | Python · Pandas · Plotly · Streamlit | [Code](https://github.com/JatinD18/Financial-Dashboard-Python) · [Live](https://financial-dashboard-py-str.streamlit.app/) |
 
 ### Also in the workshop
-[SuperStore Sales Report (Power BI + forecasting)](https://github.com/JatinD18/SuperStore_Sales_Report-PowerBI) · [Electronic Sales EDA (Python)](https://github.com/JatinD18/Electronic_Sales_Analysis-Python) · IoT Transformer Monitoring (microcontrollers)
+[SuperStore Sales Report (Power BI + 30-day forecast)](https://github.com/JatinD18/SuperStore_Sales_Report-PowerBI) · [Electronic Sales EDA (Python)](https://github.com/JatinD18/Electronic_Sales_Analysis-Python) · [Diwali Sales EDA (Python)](https://github.com/JatinD18/Diwali_Sales_Analysis-Python) · IoT Transformer Monitoring (microcontrollers)
 
 ---
 
@@ -52,10 +67,10 @@ EXTRACT  →  CLEAN  →  MODEL  →  VISUALISE  →  DECIDE
 
 | Area | Tools |
 |---|---|
-| **SQL & Databases** | MySQL 8.0 · CTEs · Window Functions · Stored Procedures · Temporal Joins · Query Optimisation |
-| **Python** | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit |
+| **SQL & Databases** | MySQL 8.0 · CTEs & Recursive CTEs · Window Functions · Stored Procedures · Temporal Joins · Query Optimisation |
+| **Python** | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit · SQLAlchemy |
 | **BI & Visualisation** | Power BI (DAX, data modelling) · Tableau · Plotly · MS Excel (Advanced) |
-| **Analytics Domains** | RFM & CLV Segmentation · Demand Forecasting · Inventory Optimisation (safety stock / ROP) · Star-Schema Modelling · Cohort & Churn Analysis |
+| **Analytics Domains** | RFM & CLV Segmentation · Demand Forecasting · Inventory Optimisation (safety stock / ROP) · Star-Schema Modelling · Cohort & Churn Analysis · Data Simulation |
 
 ---
 
@@ -96,6 +111,7 @@ EXTRACT  →  CLEAN  →  MODEL  →  VISUALISE  →  DECIDE
 - Pursuing my **MBA in Finance & Operations** — pairing every dataset with its P&L implication
 - Completing the remaining **8-Week SQL Challenge** case studies (4/8 done, end-to-end)
 - Exploring **probabilistic forecasting** (Prophet / ARIMA baselines) for inventory systems
+- Holding every repo to a **production README standard**: pipeline layers, data dictionaries, insight bullets
 
 ---
 
@@ -107,7 +123,7 @@ I'm open to **Data Analyst / Business Intelligence / Analytics Engineer** roles 
 
 <div align="center">
 
-*From site sites & stock registers to SQL pipelines & executive dashboards — thanks for stopping by!* ⚡📊
+*From site stores & stock registers to SQL pipelines & executive dashboards — thanks for stopping by!* ⚡📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JatinD18&color=blue&style=flat-square)
 
