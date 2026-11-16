@@ -4,7 +4,7 @@
 
 **Data Analyst · Electrical Engineer · MBA Candidate (Finance & Operations)**
 
-> *"Every dataset hides a decision waiting to be made — my job is to find it, prove it, and visualise it."*
+> *"Every dataset hides a decision waiting to be made, so my job is to find it, prove it, and visualise it."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jatin%20Dolas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-dolas)
 [![Email](https://img.shields.io/badge/Email-jatindolas18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatindolas18@gmail.com)
